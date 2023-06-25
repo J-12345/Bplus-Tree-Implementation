@@ -18,4 +18,5 @@ git clone https://github.com/J-12345/Blood-Donation-Management-System.git
 Open XAMPP Control Panel and start running Apache and MySQL.\
 Open any web browser and go to the following URL - [http://localhost/bdms/](http://localhost//index.html) to view the website.
 ## Screenshots
-<img src="https://github.com/J-12345/Blood-Donation-Management-System/blob/main/screenshots/home.jpg">
+<img src="https://github.com/J-12345/Bplus-Tree-Implementation/blob/main/Screenshots/home.jpg">
+<img src="https://github.com/J-12345/Bplus-Tree-Implementation/blob/main/Screenshots/b%2Btree.jpg">
