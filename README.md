@@ -20,3 +20,6 @@ Open any web browser and go to the following URL - [http://localhost/bdms/](http
 ## Screenshots
 <img src="https://github.com/J-12345/Bplus-Tree-Implementation/blob/main/Screenshots/home.jpg">
 <img src="https://github.com/J-12345/Bplus-Tree-Implementation/blob/main/Screenshots/b%2Btree.jpg">
+<img src="https://github.com/J-12345/Bplus-Tree-Implementation/blob/main/Screenshots/doctor-add-details.jpg">
+<img src="https://github.com/J-12345/Bplus-Tree-Implementation/blob/main/Screenshots/search.jpg">
+<img src="https://github.com/J-12345/Bplus-Tree-Implementation/blob/main/Screenshots/delete.jpg">
